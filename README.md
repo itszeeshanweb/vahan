@@ -1,2 +1,2 @@
 # vahan
-itszeeshanweb.github.io/vahan
+https://itszeeshanweb.github.io/vahan/
